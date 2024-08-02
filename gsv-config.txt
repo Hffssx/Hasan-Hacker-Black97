@@ -1,0 +1,2 @@
+ConfigVersion=87
+BASE_GP_URL=app.blueboxgp.com/
